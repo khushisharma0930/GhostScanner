@@ -46,5 +46,24 @@ pip install -r requirements.txt
 python ghostscan.py
 
 ```
+## ⚠️ Legal Disclaimer
+
+GhostScan is intended for **educational** and **authorized penetration testing** only.  
+**Do not scan domains without explicit permission.** Unauthorized scanning is illegal and unethical.
+
+## 👨‍💻 Author
+
+- **Name / Handle**: Khushi sharma 
+- **GitHub**: [https://github.com/khushisharma0930](https://github.com/khushisharma0930)
+
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## 📡 Connect with Me
+
+Feel free to reach out or follow for updates, tools, and more:
+
+- 💬 LinkedIn: [www.linkedin.com/in/khushi-sharma-6ab64a24a](www.linkedin.com/in/khushi-sharma-6ab64a24a)
 
 
